@@ -1,0 +1,4466 @@
+[
+  {
+    "id": 0,
+    "name": "Local Instrument",
+    "bbox": [
+      1086,
+      1681,
+      1175,
+      1770
+    ],
+    "center": [
+      1131,
+      1725
+    ],
+    "text_associated": "XS-0-1450-D-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 1,
+    "name": "Local Instrument",
+    "bbox": [
+      1103,
+      1150,
+      1193,
+      1240
+    ],
+    "center": [
+      1148,
+      1195
+    ],
+    "text_associated": "PIT-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 2,
+    "name": "Local Instrument",
+    "bbox": [
+      1596,
+      1453,
+      1685,
+      1543
+    ],
+    "center": [
+      1640,
+      1498
+    ],
+    "text_associated": "SDV-1450-D",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 3,
+    "name": "Local Instrument",
+    "bbox": [
+      1086,
+      1771,
+      1175,
+      1855
+    ],
+    "center": [
+      1131,
+      1813
+    ],
+    "text_associated": "XSC-1450-D-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 4,
+    "name": "Local Instrument",
+    "bbox": [
+      1782,
+      966,
+      1855,
+      1057
+    ],
+    "center": [
+      1819,
+      1011
+    ],
+    "text_associated": "PRCV-1450-D",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 5,
+    "name": "Local Instrument",
+    "bbox": [
+      1280,
+      1075,
+      1370,
+      1165
+    ],
+    "center": [
+      1325,
+      1120
+    ],
+    "text_associated": "PI-1450-D-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 6,
+    "name": "Local Instrument",
+    "bbox": [
+      1416,
+      1552,
+      1504,
+      1641
+    ],
+    "center": [
+      1460,
+      1597
+    ],
+    "text_associated": "XSC-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 7,
+    "name": "Local Instrument",
+    "bbox": [
+      1199,
+      1532,
+      1288,
+      1620
+    ],
+    "center": [
+      1243,
+      1576
+    ],
+    "text_associated": "SSV-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 8,
+    "name": "Local Instrument",
+    "bbox": [
+      1525,
+      1173,
+      1612,
+      1260
+    ],
+    "center": [
+      1569,
+      1216
+    ],
+    "text_associated": "TW-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 9,
+    "name": "Safeguarding System",
+    "bbox": [
+      1687,
+      763,
+      1777,
+      852
+    ],
+    "center": [
+      1732,
+      807
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 10,
+    "name": "Local Instrument",
+    "bbox": [
+      835,
+      1736,
+      924,
+      1825
+    ],
+    "center": [
+      880,
+      1780
+    ],
+    "text_associated": "PI-1450-D-10",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 11,
+    "name": "Local Instrument",
+    "bbox": [
+      1571,
+      969,
+      1661,
+      1059
+    ],
+    "center": [
+      1616,
+      1014
+    ],
+    "text_associated": "TIT-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 12,
+    "name": "Local Instrument",
+    "bbox": [
+      1511,
+      1552,
+      1601,
+      1641
+    ],
+    "center": [
+      1556,
+      1597
+    ],
+    "text_associated": "XS-0-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 13,
+    "name": "Local Instrument",
+    "bbox": [
+      1572,
+      1078,
+      1661,
+      1167
+    ],
+    "center": [
+      1617,
+      1123
+    ],
+    "text_associated": "TE-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 14,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      1501,
+      1336,
+      1586,
+      1421
+    ],
+    "center": [
+      1544,
+      1378
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 15,
+    "name": "Safeguarding System",
+    "bbox": [
+      725,
+      1680,
+      815,
+      1771
+    ],
+    "center": [
+      770,
+      1726
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 16,
+    "name": "Choke Valve",
+    "bbox": [
+      1745,
+      1146,
+      1804,
+      1203
+    ],
+    "center": [
+      1775,
+      1174
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 17,
+    "name": "Safeguarding System",
+    "bbox": [
+      1375,
+      1688,
+      1464,
+      1777
+    ],
+    "center": [
+      1420,
+      1733
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 18,
+    "name": "DCS",
+    "bbox": [
+      1509,
+      1686,
+      1602,
+      1779
+    ],
+    "center": [
+      1555,
+      1732
+    ],
+    "text_associated": "XI-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 19,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      1266,
+      1632,
+      1344,
+      1697
+    ],
+    "center": [
+      1305,
+      1664
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 20,
+    "name": "DCS",
+    "bbox": [
+      1686,
+      905,
+      1779,
+      998
+    ],
+    "center": [
+      1733,
+      951
+    ],
+    "text_associated": "HIC-1450-D",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 21,
+    "name": "DCS",
+    "bbox": [
+      1101,
+      1012,
+      1194,
+      1106
+    ],
+    "center": [
+      1147,
+      1059
+    ],
+    "text_associated": "PIC-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 22,
+    "name": "Continued on DWG",
+    "bbox": [
+      1479,
+      450,
+      1552,
+      722
+    ],
+    "center": [
+      1515,
+      586
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 23,
+    "name": "DCS",
+    "bbox": [
+      1570,
+      852,
+      1663,
+      945
+    ],
+    "center": [
+      1617,
+      899
+    ],
+    "text_associated": "TI-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 24,
+    "name": "Gate Valve",
+    "bbox": [
+      1306,
+      1435,
+      1344,
+      1502
+    ],
+    "center": [
+      1325,
+      1468
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 25,
+    "name": "Continued on DWG",
+    "bbox": [
+      975,
+      450,
+      1047,
+      723
+    ],
+    "center": [
+      1011,
+      587
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 26,
+    "name": "Gate Valve",
+    "bbox": [
+      1307,
+      1700,
+      1343,
+      1767
+    ],
+    "center": [
+      1325,
+      1733
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 27,
+    "name": "Needle Valve",
+    "bbox": [
+      1305,
+      1191,
+      1344,
+      1257
+    ],
+    "center": [
+      1324,
+      1224
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 28,
+    "name": "Needle Valve",
+    "bbox": [
+      1305,
+      1284,
+      1344,
+      1352
+    ],
+    "center": [
+      1325,
+      1318
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 29,
+    "name": "Needle Valve",
+    "bbox": [
+      1372,
+      1176,
+      1439,
+      1215
+    ],
+    "center": [
+      1406,
+      1196
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 30,
+    "name": "DCS",
+    "bbox": [
+      948,
+      1680,
+      1040,
+      1772
+    ],
+    "center": [
+      994,
+      1726
+    ],
+    "text_associated": "XI-1450-D-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 31,
+    "name": "Needle Valve",
+    "bbox": [
+      1223,
+      1176,
+      1290,
+      1215
+    ],
+    "center": [
+      1257,
+      1196
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 32,
+    "name": "Continued on DWG",
+    "bbox": [
+      635,
+      450,
+      708,
+      724
+    ],
+    "center": [
+      672,
+      587
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 33,
+    "name": "Check Valve",
+    "bbox": [
+      1156,
+      1369,
+      1208,
+      1402
+    ],
+    "center": [
+      1182,
+      1385
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 34,
+    "name": "Needle Valve",
+    "bbox": [
+      1224,
+      1366,
+      1291,
+      1404
+    ],
+    "center": [
+      1257,
+      1385
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 35,
+    "name": "Cap",
+    "bbox": [
+      1716,
+      1111,
+      1749,
+      1144
+    ],
+    "center": [
+      1733,
+      1127
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 36,
+    "name": "Flange Connection",
+    "bbox": [
+      1609,
+      1296,
+      1647,
+      1331
+    ],
+    "center": [
+      1628,
+      1314
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 37,
+    "name": "Spec Break",
+    "bbox": [
+      1672,
+      1358,
+      1708,
+      1389
+    ],
+    "center": [
+      1690,
+      1373
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 38,
+    "name": "Spec Break",
+    "bbox": [
+      1753,
+      1323,
+      1795,
+      1341
+    ],
+    "center": [
+      1774,
+      1332
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 39,
+    "name": "Local Instrument",
+    "bbox": [
+      3023,
+      1763,
+      3111,
+      1852
+    ],
+    "center": [
+      3067,
+      1807
+    ],
+    "text_associated": "XS-0-1450-E-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 40,
+    "name": "Local Instrument",
+    "bbox": [
+      3301,
+      1634,
+      3390,
+      1723
+    ],
+    "center": [
+      3345,
+      1678
+    ],
+    "text_associated": "XSC-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 41,
+    "name": "Local Instrument",
+    "bbox": [
+      3481,
+      1535,
+      3570,
+      1624
+    ],
+    "center": [
+      3526,
+      1580
+    ],
+    "text_associated": "SDV-1450-E",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 42,
+    "name": "Local Instrument",
+    "bbox": [
+      3084,
+      1593,
+      3173,
+      1681
+    ],
+    "center": [
+      3128,
+      1637
+    ],
+    "text_associated": "SSV-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 43,
+    "name": "Local Instrument",
+    "bbox": [
+      3410,
+      1254,
+      3499,
+      1341
+    ],
+    "center": [
+      3455,
+      1298
+    ],
+    "text_associated": "TW-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 44,
+    "name": "Local Instrument",
+    "bbox": [
+      3397,
+      1634,
+      3485,
+      1723
+    ],
+    "center": [
+      3441,
+      1678
+    ],
+    "text_associated": "XS-0-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 45,
+    "name": "Local Instrument",
+    "bbox": [
+      2988,
+      1232,
+      3078,
+      1322
+    ],
+    "center": [
+      3033,
+      1277
+    ],
+    "text_associated": "PIT-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 46,
+    "name": "Local Instrument",
+    "bbox": [
+      3457,
+      1160,
+      3547,
+      1248
+    ],
+    "center": [
+      3502,
+      1204
+    ],
+    "text_associated": "TE-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 47,
+    "name": "Local Instrument",
+    "bbox": [
+      3165,
+      1157,
+      3254,
+      1247
+    ],
+    "center": [
+      3210,
+      1202
+    ],
+    "text_associated": "PI-1450-E-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 48,
+    "name": "Local Instrument",
+    "bbox": [
+      3457,
+      1051,
+      3546,
+      1141
+    ],
+    "center": [
+      3502,
+      1096
+    ],
+    "text_associated": "TIT-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 49,
+    "name": "Safeguarding System",
+    "bbox": [
+      2353,
+      1776,
+      2444,
+      1855
+    ],
+    "center": [
+      2399,
+      1816
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 50,
+    "name": "Safeguarding System",
+    "bbox": [
+      3512,
+      1769,
+      3602,
+      1855
+    ],
+    "center": [
+      3557,
+      1812
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 51,
+    "name": "Local Instrument",
+    "bbox": [
+      2055,
+      1762,
+      2144,
+      1852
+    ],
+    "center": [
+      2099,
+      1807
+    ],
+    "text_associated": "PI-1450-D-3",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 52,
+    "name": "Local Instrument",
+    "bbox": [
+      3668,
+      1049,
+      3712,
+      1138
+    ],
+    "center": [
+      3690,
+      1093
+    ],
+    "text_associated": "PR-1450",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 53,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      3386,
+      1417,
+      3471,
+      1503
+    ],
+    "center": [
+      3428,
+      1460
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 54,
+    "name": "Safeguarding System",
+    "bbox": [
+      2661,
+      1762,
+      2752,
+      1853
+    ],
+    "center": [
+      2706,
+      1807
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 55,
+    "name": "Safeguarding System",
+    "bbox": [
+      3572,
+      851,
+      3663,
+      941
+    ],
+    "center": [
+      3618,
+      896
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 56,
+    "name": "Local Instrument",
+    "bbox": [
+      2767,
+      1812,
+      2855,
+      1855
+    ],
+    "center": [
+      2811,
+      1834
+    ],
+    "text_associated": "PI",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 57,
+    "name": "DCS",
+    "bbox": [
+      2203,
+      1775,
+      2296,
+      1856
+    ],
+    "center": [
+      2250,
+      1815
+    ],
+    "text_associated": "PAL-1450-D-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 58,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      3151,
+      1713,
+      3229,
+      1779
+    ],
+    "center": [
+      3190,
+      1746
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 59,
+    "name": "DCS",
+    "bbox": [
+      3394,
+      1767,
+      3487,
+      1856
+    ],
+    "center": [
+      3440,
+      1811
+    ],
+    "text_associated": "XI-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 60,
+    "name": "DCS",
+    "bbox": [
+      3571,
+      986,
+      3664,
+      1079
+    ],
+    "center": [
+      3618,
+      1033
+    ],
+    "text_associated": "HIC-1450-E",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 61,
+    "name": "DCS",
+    "bbox": [
+      2986,
+      1094,
+      3079,
+      1188
+    ],
+    "center": [
+      3033,
+      1141
+    ],
+    "text_associated": "PIC-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 62,
+    "name": "Choke Valve",
+    "bbox": [
+      3629,
+      1226,
+      3690,
+      1284
+    ],
+    "center": [
+      3659,
+      1255
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 63,
+    "name": "DCS",
+    "bbox": [
+      3455,
+      933,
+      3548,
+      1027
+    ],
+    "center": [
+      3502,
+      980
+    ],
+    "text_associated": "TI-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 64,
+    "name": "DCS",
+    "bbox": [
+      2885,
+      1761,
+      2977,
+      1853
+    ],
+    "center": [
+      2931,
+      1807
+    ],
+    "text_associated": "XI-1450-E-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 65,
+    "name": "Continued on DWG",
+    "bbox": [
+      2859,
+      449,
+      2934,
+      722
+    ],
+    "center": [
+      2897,
+      586
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 66,
+    "name": "Continued on DWG",
+    "bbox": [
+      3365,
+      450,
+      3437,
+      724
+    ],
+    "center": [
+      3401,
+      587
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 67,
+    "name": "Gate Valve",
+    "bbox": [
+      3191,
+      1515,
+      3228,
+      1584
+    ],
+    "center": [
+      3210,
+      1549
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 68,
+    "name": "Continued on DWG",
+    "bbox": [
+      2521,
+      450,
+      2593,
+      723
+    ],
+    "center": [
+      2557,
+      586
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 69,
+    "name": "Needle Valve",
+    "bbox": [
+      3108,
+      1257,
+      3176,
+      1297
+    ],
+    "center": [
+      3142,
+      1277
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 70,
+    "name": "Needle Valve",
+    "bbox": [
+      3257,
+      1257,
+      3325,
+      1297
+    ],
+    "center": [
+      3291,
+      1277
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 71,
+    "name": "Check Valve",
+    "bbox": [
+      3040,
+      1451,
+      3095,
+      1483
+    ],
+    "center": [
+      3067,
+      1467
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 72,
+    "name": "Needle Valve",
+    "bbox": [
+      3109,
+      1448,
+      3176,
+      1487
+    ],
+    "center": [
+      3142,
+      1468
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 73,
+    "name": "Needle Valve",
+    "bbox": [
+      3191,
+      1272,
+      3229,
+      1339
+    ],
+    "center": [
+      3210,
+      1306
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 74,
+    "name": "Gate Valve",
+    "bbox": [
+      3192,
+      1782,
+      3228,
+      1848
+    ],
+    "center": [
+      3210,
+      1815
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 75,
+    "name": "Needle Valve",
+    "bbox": [
+      3190,
+      1366,
+      3229,
+      1433
+    ],
+    "center": [
+      3210,
+      1400
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 76,
+    "name": "Cap",
+    "bbox": [
+      3600,
+      1192,
+      3633,
+      1226
+    ],
+    "center": [
+      3617,
+      1209
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 77,
+    "name": "Line Number",
+    "bbox": [
+      1921,
+      1696,
+      1964,
+      1856
+    ],
+    "center": [
+      1942,
+      1776
+    ],
+    "text_associated": "250DS-1-002",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 78,
+    "name": "Mono Valve",
+    "bbox": [
+      2000,
+      1792,
+      2030,
+      1823
+    ],
+    "center": [
+      2015,
+      1808
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 79,
+    "name": "Local Instrument",
+    "bbox": [
+      1856,
+      967,
+      1872,
+      1057
+    ],
+    "center": [
+      1864,
+      1012
+    ],
+    "text_associated": "8\" 90DSH-1-020",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 80,
+    "name": "Flange Connection",
+    "bbox": [
+      1917,
+      1586,
+      1943,
+      1620
+    ],
+    "center": [
+      1930,
+      1603
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 81,
+    "name": "Flange Connection",
+    "bbox": [
+      1916,
+      1654,
+      1943,
+      1688
+    ],
+    "center": [
+      1930,
+      1671
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 82,
+    "name": "Flange Connection",
+    "bbox": [
+      3495,
+      1379,
+      3533,
+      1414
+    ],
+    "center": [
+      3514,
+      1396
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 83,
+    "name": "Spec Break",
+    "bbox": [
+      3558,
+      1439,
+      3593,
+      1471
+    ],
+    "center": [
+      3575,
+      1455
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 84,
+    "name": "Spec Break",
+    "bbox": [
+      3637,
+      1403,
+      3680,
+      1423
+    ],
+    "center": [
+      3659,
+      1413
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 85,
+    "name": "Spec Break",
+    "bbox": [
+      1968,
+      1187,
+      1987,
+      1230
+    ],
+    "center": [
+      1977,
+      1209
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 86,
+    "name": "Safeguarding System",
+    "bbox": [
+      3616,
+      1844,
+      3704,
+      1856
+    ],
+    "center": [
+      3660,
+      1850
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 87,
+    "name": "Local Instrument",
+    "bbox": [
+      3939,
+      1687,
+      4030,
+      1777
+    ],
+    "center": [
+      3984,
+      1732
+    ],
+    "text_associated": "PI-1450-E-3",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 88,
+    "name": "Safeguarding System",
+    "bbox": [
+      4238,
+      1695,
+      4330,
+      1785
+    ],
+    "center": [
+      4284,
+      1740
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 89,
+    "name": "DCS",
+    "bbox": [
+      4088,
+      1693,
+      4181,
+      1787
+    ],
+    "center": [
+      4134,
+      1740
+    ],
+    "text_associated": "PAL-1450-E-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 90,
+    "name": "Local Instrument",
+    "bbox": [
+      3939,
+      1817,
+      4029,
+      1856
+    ],
+    "center": [
+      3984,
+      1836
+    ],
+    "text_associated": "PIT",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 91,
+    "name": "Safeguarding System",
+    "bbox": [
+      4239,
+      1817,
+      4329,
+      1856
+    ],
+    "center": [
+      4284,
+      1836
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 92,
+    "name": "Continued on DWG",
+    "bbox": [
+      4576,
+      997,
+      4847,
+      1069
+    ],
+    "center": [
+      4711,
+      1033
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 93,
+    "name": "Local Instrument",
+    "bbox": [
+      3712,
+      1048,
+      3758,
+      1139
+    ],
+    "center": [
+      3735,
+      1093
+    ],
+    "text_associated": "CV-150-E",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 94,
+    "name": "Continued on DWG",
+    "bbox": [
+      4576,
+      800,
+      4847,
+      872
+    ],
+    "center": [
+      4711,
+      836
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 95,
+    "name": "DCS",
+    "bbox": [
+      4088,
+      1815,
+      4181,
+      1855
+    ],
+    "center": [
+      4134,
+      1835
+    ],
+    "text_associated": "PAH",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 96,
+    "name": "Line Number",
+    "bbox": [
+      3805,
+      1599,
+      3847,
+      1821
+    ],
+    "center": [
+      3826,
+      1710
+    ],
+    "text_associated": "4\" 250DS-1-001",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 97,
+    "name": "Mono Valve",
+    "bbox": [
+      3885,
+      1717,
+      3915,
+      1748
+    ],
+    "center": [
+      3900,
+      1733
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 98,
+    "name": "DCS",
+    "bbox": [
+      3734,
+      1842,
+      3829,
+      1856
+    ],
+    "center": [
+      3781,
+      1849
+    ],
+    "text_associated": "8\" 90DSH-1-020",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 99,
+    "name": "Flange Connection",
+    "bbox": [
+      3801,
+      1468,
+      3830,
+      1505
+    ],
+    "center": [
+      3815,
+      1486
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 100,
+    "name": "Flange Connection",
+    "bbox": [
+      3801,
+      1536,
+      3829,
+      1573
+    ],
+    "center": [
+      3815,
+      1554
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 101,
+    "name": "Spec Break",
+    "bbox": [
+      3853,
+      1268,
+      3872,
+      1312
+    ],
+    "center": [
+      3863,
+      1290
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 102,
+    "name": "Flexible Connection",
+    "bbox": [
+      671,
+      2090,
+      786,
+      2251
+    ],
+    "center": [
+      729,
+      2170
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 103,
+    "name": "Local Instrument",
+    "bbox": [
+      1728,
+      2163,
+      1818,
+      2253
+    ],
+    "center": [
+      1773,
+      2208
+    ],
+    "text_associated": "PIT-1450-D-8",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 104,
+    "name": "Local Instrument",
+    "bbox": [
+      1181,
+      2676,
+      1271,
+      2765
+    ],
+    "center": [
+      1226,
+      2721
+    ],
+    "text_associated": "SSV-1450-D-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 105,
+    "name": "Local Instrument",
+    "bbox": [
+      1728,
+      1926,
+      1818,
+      2016
+    ],
+    "center": [
+      1773,
+      1971
+    ],
+    "text_associated": "PIT-1450-D-6",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 106,
+    "name": "Local Instrument",
+    "bbox": [
+      1728,
+      2259,
+      1818,
+      2348
+    ],
+    "center": [
+      1773,
+      2304
+    ],
+    "text_associated": "PI-1450-D-9",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 107,
+    "name": "Local Instrument",
+    "bbox": [
+      1345,
+      2714,
+      1435,
+      2804
+    ],
+    "center": [
+      1390,
+      2759
+    ],
+    "text_associated": "PDHM-1450-D",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 108,
+    "name": "Local Instrument",
+    "bbox": [
+      1612,
+      3278,
+      1703,
+      3369
+    ],
+    "center": [
+      1657,
+      3324
+    ],
+    "text_associated": "XCV-1450-D-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 109,
+    "name": "Local Instrument",
+    "bbox": [
+      1728,
+      2021,
+      1818,
+      2110
+    ],
+    "center": [
+      1773,
+      2066
+    ],
+    "text_associated": "PI-1450-D-7",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 110,
+    "name": "Auto Reset",
+    "bbox": [
+      1481,
+      3188,
+      1549,
+      3255
+    ],
+    "center": [
+      1515,
+      3222
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 111,
+    "name": "Sample Connection",
+    "bbox": [
+      1755,
+      2835,
+      1820,
+      2902
+    ],
+    "center": [
+      1787,
+      2868
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 112,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      1685,
+      3189,
+      1766,
+      3254
+    ],
+    "center": [
+      1726,
+      3222
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 113,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      1264,
+      2523,
+      1345,
+      2588
+    ],
+    "center": [
+      1304,
+      2556
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 114,
+    "name": "Gate Valve",
+    "bbox": [
+      1050,
+      2023,
+      1116,
+      2061
+    ],
+    "center": [
+      1083,
+      2042
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 115,
+    "name": "Gate Valve",
+    "bbox": [
+      1509,
+      2047,
+      1575,
+      2084
+    ],
+    "center": [
+      1542,
+      2066
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 116,
+    "name": "Check Valve",
+    "bbox": [
+      853,
+      2094,
+      921,
+      2134
+    ],
+    "center": [
+      887,
+      2114
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 117,
+    "name": "DCS",
+    "bbox": [
+      1346,
+      3175,
+      1439,
+      3268
+    ],
+    "center": [
+      1392,
+      3222
+    ],
+    "text_associated": "HS-1450-D-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 118,
+    "name": "Gate Valve",
+    "bbox": [
+      1441,
+      2047,
+      1507,
+      2084
+    ],
+    "center": [
+      1474,
+      2066
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 119,
+    "name": "Continued on DWG",
+    "bbox": [
+      355,
+      2195,
+      627,
+      2265
+    ],
+    "center": [
+      491,
+      2230
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 120,
+    "name": "Continued on DWG",
+    "bbox": [
+      366,
+      3472,
+      639,
+      3544
+    ],
+    "center": [
+      502,
+      3508
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 121,
+    "name": "Ball Valve",
+    "bbox": [
+      1013,
+      2080,
+      1080,
+      2132
+    ],
+    "center": [
+      1047,
+      2106
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 122,
+    "name": "Gate Valve",
+    "bbox": [
+      1468,
+      2284,
+      1534,
+      2323
+    ],
+    "center": [
+      1501,
+      2304
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 123,
+    "name": "Gate Valve",
+    "bbox": [
+      1118,
+      2023,
+      1185,
+      2060
+    ],
+    "center": [
+      1152,
+      2042
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 124,
+    "name": "Needle Valve",
+    "bbox": [
+      1672,
+      2338,
+      1711,
+      2406
+    ],
+    "center": [
+      1692,
+      2372
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 125,
+    "name": "Needle Valve",
+    "bbox": [
+      960,
+      1878,
+      1027,
+      1917
+    ],
+    "center": [
+      993,
+      1898
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 126,
+    "name": "Ball Valve",
+    "bbox": [
+      1136,
+      2080,
+      1201,
+      2132
+    ],
+    "center": [
+      1168,
+      2106
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 127,
+    "name": "Needle Valve",
+    "bbox": [
+      842,
+      1878,
+      909,
+      1918
+    ],
+    "center": [
+      876,
+      1898
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 128,
+    "name": "Needle Valve",
+    "bbox": [
+      1633,
+      2284,
+      1696,
+      2323
+    ],
+    "center": [
+      1664,
+      2303
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 129,
+    "name": "Needle Valve",
+    "bbox": [
+      915,
+      1917,
+      954,
+      1984
+    ],
+    "center": [
+      934,
+      1950
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 130,
+    "name": "Needle Valve",
+    "bbox": [
+      734,
+      1977,
+      800,
+      2018
+    ],
+    "center": [
+      767,
+      1998
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 131,
+    "name": "Needle Valve",
+    "bbox": [
+      955,
+      1978,
+      1022,
+      2018
+    ],
+    "center": [
+      989,
+      1998
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 132,
+    "name": "Needle Valve",
+    "bbox": [
+      1606,
+      2047,
+      1668,
+      2084
+    ],
+    "center": [
+      1637,
+      2065
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 133,
+    "name": "Ball Valve",
+    "bbox": [
+      1087,
+      2145,
+      1141,
+      2212
+    ],
+    "center": [
+      1114,
+      2179
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 134,
+    "name": "DCS",
+    "bbox": [
+      466,
+      2386,
+      559,
+      2479
+    ],
+    "center": [
+      513,
+      2433
+    ],
+    "text_associated": "PI-1450-D-21",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 135,
+    "name": "Needle Valve",
+    "bbox": [
+      1766,
+      2739,
+      1805,
+      2807
+    ],
+    "center": [
+      1786,
+      2773
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 136,
+    "name": "Needle Valve",
+    "bbox": [
+      1644,
+      2100,
+      1684,
+      2167
+    ],
+    "center": [
+      1664,
+      2134
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 137,
+    "name": "DCS",
+    "bbox": [
+      466,
+      3066,
+      559,
+      3159
+    ],
+    "center": [
+      513,
+      3113
+    ],
+    "text_associated": "XA-1450-D-22",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 138,
+    "name": "Globe Valve",
+    "bbox": [
+      1245,
+      1983,
+      1296,
+      2013
+    ],
+    "center": [
+      1270,
+      1998
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 139,
+    "name": "DCS",
+    "bbox": [
+      466,
+      2659,
+      560,
+      2752
+    ],
+    "center": [
+      513,
+      2705
+    ],
+    "text_associated": "TI-1450-D-21",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 140,
+    "name": "Line Number",
+    "bbox": [
+      621,
+      2052,
+      857,
+      2092
+    ],
+    "center": [
+      739,
+      2072
+    ],
+    "text_associated": "1/2\" TUB-500-4-121",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 141,
+    "name": "DCS",
+    "bbox": [
+      466,
+      2931,
+      560,
+      3024
+    ],
+    "center": [
+      513,
+      2977
+    ],
+    "text_associated": "XA-1450-D-21",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 142,
+    "name": "DCS",
+    "bbox": [
+      466,
+      2794,
+      559,
+      2887
+    ],
+    "center": [
+      513,
+      2841
+    ],
+    "text_associated": "TI-1450-D-22",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 143,
+    "name": "DCS",
+    "bbox": [
+      466,
+      2522,
+      559,
+      2615
+    ],
+    "center": [
+      513,
+      2569
+    ],
+    "text_associated": "PI-1450-D-22",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 144,
+    "name": "Flexible Connection",
+    "bbox": [
+      803,
+      1977,
+      923,
+      2021
+    ],
+    "center": [
+      863,
+      1999
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 145,
+    "name": "Tag",
+    "bbox": [
+      1185,
+      2858,
+      1339,
+      2902
+    ],
+    "center": [
+      1262,
+      2880
+    ],
+    "text_associated": "Q-1450-D",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 146,
+    "name": "Break Line",
+    "bbox": [
+      1413,
+      2639,
+      1481,
+      2663
+    ],
+    "center": [
+      1447,
+      2651
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 147,
+    "name": "Break Line",
+    "bbox": [
+      1292,
+      2640,
+      1358,
+      2663
+    ],
+    "center": [
+      1325,
+      2651
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 148,
+    "name": "Flange Connection",
+    "bbox": [
+      1167,
+      2263,
+      1196,
+      2304
+    ],
+    "center": [
+      1182,
+      2284
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 149,
+    "name": "Break Line",
+    "bbox": [
+      1168,
+      2639,
+      1236,
+      2663
+    ],
+    "center": [
+      1202,
+      2651
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 150,
+    "name": "Spec Break",
+    "bbox": [
+      943,
+      2274,
+      991,
+      2294
+    ],
+    "center": [
+      967,
+      2284
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 151,
+    "name": "Sample Connection",
+    "bbox": [
+      3640,
+      2862,
+      3706,
+      2928
+    ],
+    "center": [
+      3673,
+      2895
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 152,
+    "name": "Local Instrument",
+    "bbox": [
+      3614,
+      2224,
+      3703,
+      2314
+    ],
+    "center": [
+      3659,
+      2269
+    ],
+    "text_associated": "PIT-1450-E-8",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 153,
+    "name": "Local Instrument",
+    "bbox": [
+      3613,
+      1856,
+      3703,
+      1934
+    ],
+    "center": [
+      3658,
+      1895
+    ],
+    "text_associated": "PIT-1450-E-6",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 154,
+    "name": "Local Instrument",
+    "bbox": [
+      3614,
+      2320,
+      3704,
+      2410
+    ],
+    "center": [
+      3659,
+      2365
+    ],
+    "text_associated": "PI-1450-E-9",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 155,
+    "name": "Local Instrument",
+    "bbox": [
+      3614,
+      1940,
+      3704,
+      2029
+    ],
+    "center": [
+      3659,
+      1985
+    ],
+    "text_associated": "PI-1450-E-7",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 156,
+    "name": "Local Instrument",
+    "bbox": [
+      3023,
+      1856,
+      3111,
+      1939
+    ],
+    "center": [
+      3067,
+      1897
+    ],
+    "text_associated": "XSC-1450-E-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 157,
+    "name": "Local Instrument",
+    "bbox": [
+      3392,
+      2185,
+      3482,
+      2274
+    ],
+    "center": [
+      3437,
+      2229
+    ],
+    "text_associated": "PIT-1450-E",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 158,
+    "name": "Auto Reset",
+    "bbox": [
+      2121,
+      3188,
+      2187,
+      3255
+    ],
+    "center": [
+      2154,
+      3222
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 159,
+    "name": "Auto Reset",
+    "bbox": [
+      3367,
+      3257,
+      3433,
+      3323
+    ],
+    "center": [
+      3400,
+      3290
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 160,
+    "name": "Relief or Safety Valve",
+    "bbox": [
+      2053,
+      2360,
+      2213,
+      2521
+    ],
+    "center": [
+      2133,
+      2441
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 161,
+    "name": "Local Instrument",
+    "bbox": [
+      2020,
+      3279,
+      2111,
+      3369
+    ],
+    "center": [
+      2065,
+      3324
+    ],
+    "text_associated": "XCV-1450-D-3",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 162,
+    "name": "Local Instrument",
+    "bbox": [
+      3498,
+      3347,
+      3588,
+      3437
+    ],
+    "center": [
+      3543,
+      3392
+    ],
+    "text_associated": "XCV-1450-E-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 163,
+    "name": "Safeguarding System",
+    "bbox": [
+      2353,
+      2034,
+      2444,
+      2124
+    ],
+    "center": [
+      2399,
+      2079
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 164,
+    "name": "Local Instrument",
+    "bbox": [
+      2054,
+      2034,
+      2144,
+      2124
+    ],
+    "center": [
+      2099,
+      2079
+    ],
+    "text_associated": "PIT-1450-D-5",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 165,
+    "name": "Local Instrument",
+    "bbox": [
+      2054,
+      1899,
+      2144,
+      1988
+    ],
+    "center": [
+      2099,
+      1943
+    ],
+    "text_associated": "PIT-1450-D-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 166,
+    "name": "Local Instrument",
+    "bbox": [
+      3066,
+      2676,
+      3157,
+      2765
+    ],
+    "center": [
+      3111,
+      2721
+    ],
+    "text_associated": "SSV-1450-E-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 167,
+    "name": "Safeguarding System",
+    "bbox": [
+      2354,
+      1899,
+      2444,
+      1988
+    ],
+    "center": [
+      2399,
+      1944
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 168,
+    "name": "Mechanical Interlock",
+    "bbox": [
+      2456,
+      2344,
+      2559,
+      2440
+    ],
+    "center": [
+      2508,
+      2392
+    ],
+    "text_associated": "MIL-1450-D-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 169,
+    "name": "Local Instrument",
+    "bbox": [
+      2767,
+      1856,
+      2855,
+      1898
+    ],
+    "center": [
+      2811,
+      1877
+    ],
+    "text_associated": "1450-E-10",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 170,
+    "name": "DCS",
+    "bbox": [
+      2203,
+      2032,
+      2296,
+      2126
+    ],
+    "center": [
+      2249,
+      2079
+    ],
+    "text_associated": "PAHH-1450-D-5",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 171,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      3571,
+      3257,
+      3652,
+      3324
+    ],
+    "center": [
+      3612,
+      3290
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 172,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      3150,
+      2522,
+      3230,
+      2588
+    ],
+    "center": [
+      3190,
+      2555
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 173,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      1943,
+      3188,
+      2024,
+      3255
+    ],
+    "center": [
+      1983,
+      3222
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 174,
+    "name": "Check Valve",
+    "bbox": [
+      1944,
+      2747,
+      1982,
+      2812
+    ],
+    "center": [
+      1963,
+      2780
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 175,
+    "name": "Gate Valve",
+    "bbox": [
+      3395,
+      1966,
+      3461,
+      2003
+    ],
+    "center": [
+      3428,
+      1984
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 176,
+    "name": "Gate Valve",
+    "bbox": [
+      3028,
+      2047,
+      3094,
+      2085
+    ],
+    "center": [
+      3061,
+      2066
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 177,
+    "name": "DCS",
+    "bbox": [
+      2203,
+      1897,
+      2296,
+      1990
+    ],
+    "center": [
+      2249,
+      1943
+    ],
+    "text_associated": "PAH-1450-D-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 178,
+    "name": "DCS",
+    "bbox": [
+      3231,
+      3244,
+      3324,
+      3337
+    ],
+    "center": [
+      3278,
+      3290
+    ],
+    "text_associated": "HS-1450-E-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 179,
+    "name": "Gate Valve",
+    "bbox": [
+      2960,
+      2047,
+      3025,
+      2084
+    ],
+    "center": [
+      2992,
+      2066
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 180,
+    "name": "DCS",
+    "bbox": [
+      1856,
+      1924,
+      1942,
+      2017
+    ],
+    "center": [
+      1899,
+      1971
+    ],
+    "text_associated": "PI-1450-D-6",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 181,
+    "name": "DCS",
+    "bbox": [
+      1856,
+      2162,
+      1942,
+      2255
+    ],
+    "center": [
+      1899,
+      2208
+    ],
+    "text_associated": "PI-1450-D-8",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 182,
+    "name": "Gate Valve",
+    "bbox": [
+      3326,
+      1965,
+      3392,
+      2003
+    ],
+    "center": [
+      3359,
+      1984
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 183,
+    "name": "Gate Valve",
+    "bbox": [
+      3353,
+      2346,
+      3420,
+      2384
+    ],
+    "center": [
+      3387,
+      2365
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 184,
+    "name": "Check Valve",
+    "bbox": [
+      3493,
+      2083,
+      3556,
+      2120
+    ],
+    "center": [
+      3524,
+      2101
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 185,
+    "name": "Needle Valve",
+    "bbox": [
+      3491,
+      1965,
+      3553,
+      2002
+    ],
+    "center": [
+      3522,
+      1984
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 186,
+    "name": "Needle Valve",
+    "bbox": [
+      2792,
+      1923,
+      2831,
+      1991
+    ],
+    "center": [
+      2811,
+      1957
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 187,
+    "name": "Needle Valve",
+    "bbox": [
+      3578,
+      2585,
+      3617,
+      2652
+    ],
+    "center": [
+      3597,
+      2618
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 188,
+    "name": "Ball Valve",
+    "bbox": [
+      3314,
+      2068,
+      3378,
+      2118
+    ],
+    "center": [
+      3346,
+      2093
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 189,
+    "name": "Line Number",
+    "bbox": [
+      1965,
+      2856,
+      2181,
+      2894
+    ],
+    "center": [
+      2073,
+      2875
+    ],
+    "text_associated": "4\" 90DS-1-254",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 190,
+    "name": "Ball Valve",
+    "bbox": [
+      2366,
+      2455,
+      2431,
+      2506
+    ],
+    "center": [
+      2399,
+      2480
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 191,
+    "name": "Ball Valve",
+    "bbox": [
+      2216,
+      2666,
+      2268,
+      2706
+    ],
+    "center": [
+      2242,
+      2686
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 192,
+    "name": "Ball Valve",
+    "bbox": [
+      3405,
+      2067,
+      3470,
+      2119
+    ],
+    "center": [
+      3437,
+      2093
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 193,
+    "name": "Globe Valve",
+    "bbox": [
+      2373,
+      2676,
+      2424,
+      2707
+    ],
+    "center": [
+      2398,
+      2691
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 194,
+    "name": "Needle Valve",
+    "bbox": [
+      3518,
+      2345,
+      3581,
+      2384
+    ],
+    "center": [
+      3550,
+      2365
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 195,
+    "name": "Needle Valve",
+    "bbox": [
+      2839,
+      1890,
+      2906,
+      1930
+    ],
+    "center": [
+      2873,
+      1910
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 196,
+    "name": "Ball Valve",
+    "bbox": [
+      3358,
+      2133,
+      3408,
+      2198
+    ],
+    "center": [
+      3383,
+      2165
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 197,
+    "name": "Needle Valve",
+    "bbox": [
+      3531,
+      2005,
+      3568,
+      2072
+    ],
+    "center": [
+      3550,
+      2039
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 198,
+    "name": "Remote Seal",
+    "bbox": [
+      1999,
+      2060,
+      2024,
+      2100
+    ],
+    "center": [
+      2012,
+      2080
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 199,
+    "name": "Needle Valve",
+    "bbox": [
+      2591,
+      1977,
+      2658,
+      2018
+    ],
+    "center": [
+      2624,
+      1998
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 200,
+    "name": "Needle Valve",
+    "bbox": [
+      2716,
+      1889,
+      2783,
+      1929
+    ],
+    "center": [
+      2750,
+      1909
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 201,
+    "name": "Needle Valve",
+    "bbox": [
+      3652,
+      2766,
+      3691,
+      2834
+    ],
+    "center": [
+      3672,
+      2800
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 202,
+    "name": "Needle Valve",
+    "bbox": [
+      3619,
+      2572,
+      3659,
+      2639
+    ],
+    "center": [
+      3639,
+      2606
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 203,
+    "name": "Needle Valve",
+    "bbox": [
+      2856,
+      1978,
+      2923,
+      2018
+    ],
+    "center": [
+      2890,
+      1998
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 204,
+    "name": "Ball Valve",
+    "bbox": [
+      2292,
+      2537,
+      2332,
+      2588
+    ],
+    "center": [
+      2312,
+      2562
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 205,
+    "name": "DCS",
+    "bbox": [
+      2224,
+      3175,
+      2316,
+      3268
+    ],
+    "center": [
+      2270,
+      3222
+    ],
+    "text_associated": "HS-1450-D-3",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 206,
+    "name": "Ball Valve",
+    "bbox": [
+      1876,
+      2665,
+      1929,
+      2707
+    ],
+    "center": [
+      1902,
+      2686
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 207,
+    "name": "Flexible Connection",
+    "bbox": [
+      2660,
+      1976,
+      2781,
+      2021
+    ],
+    "center": [
+      2721,
+      1999
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 208,
+    "name": "Globe Valve",
+    "bbox": [
+      3130,
+      1982,
+      3182,
+      2013
+    ],
+    "center": [
+      3156,
+      1998
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 209,
+    "name": "Needle Valve",
+    "bbox": [
+      3558,
+      2399,
+      3596,
+      2467
+    ],
+    "center": [
+      3577,
+      2433
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 210,
+    "name": "Remote Seal",
+    "bbox": [
+      1999,
+      1925,
+      2024,
+      1963
+    ],
+    "center": [
+      2012,
+      1944
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 211,
+    "name": "Line Number",
+    "bbox": [
+      1920,
+      1856,
+      1963,
+      1913
+    ],
+    "center": [
+      1941,
+      1884
+    ],
+    "text_associated": "3\"-T-1",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 212,
+    "name": "Line Number",
+    "bbox": [
+      2417,
+      2930,
+      2459,
+      3148
+    ],
+    "center": [
+      2438,
+      3039
+    ],
+    "text_associated": "4\" TSC-1-255",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 213,
+    "name": "Concentric Reducer",
+    "bbox": [
+      2237,
+      2469,
+      2276,
+      2506
+    ],
+    "center": [
+      2257,
+      2487
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 214,
+    "name": "Concentric Reducer",
+    "bbox": [
+      2164,
+      2563,
+      2200,
+      2603
+    ],
+    "center": [
+      2182,
+      2583
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 215,
+    "name": "Tag",
+    "bbox": [
+      3072,
+      2859,
+      3222,
+      2902
+    ],
+    "center": [
+      3147,
+      2881
+    ],
+    "text_associated": "Q-1450-E",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 216,
+    "name": "Line Number",
+    "bbox": [
+      1920,
+      2949,
+      1963,
+      3167
+    ],
+    "center": [
+      1942,
+      3058
+    ],
+    "text_associated": "4\" 90DS-1-253",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 217,
+    "name": "Slope Direction",
+    "bbox": [
+      2000,
+      2899,
+      2139,
+      2949
+    ],
+    "center": [
+      2070,
+      2924
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 218,
+    "name": "Connection Point",
+    "bbox": [
+      3578,
+      2681,
+      3616,
+      2706
+    ],
+    "center": [
+      3597,
+      2693
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 219,
+    "name": "Connection Point",
+    "bbox": [
+      3619,
+      2681,
+      3657,
+      2706
+    ],
+    "center": [
+      3638,
+      2693
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 220,
+    "name": "Cap",
+    "bbox": [
+      1895,
+      3624,
+      1920,
+      3662
+    ],
+    "center": [
+      1907,
+      3643
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 221,
+    "name": "Break Line",
+    "bbox": [
+      3067,
+      2639,
+      3136,
+      2662
+    ],
+    "center": [
+      3101,
+      2651
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 222,
+    "name": "Break Line",
+    "bbox": [
+      3285,
+      2640,
+      3352,
+      2663
+    ],
+    "center": [
+      3319,
+      2651
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 223,
+    "name": "Break Line",
+    "bbox": [
+      3176,
+      2639,
+      3244,
+      2663
+    ],
+    "center": [
+      3210,
+      2651
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 224,
+    "name": "DCS",
+    "bbox": [
+      2203,
+      1856,
+      2298,
+      1869
+    ],
+    "center": [
+      2250,
+      1862
+    ],
+    "text_associated": "8\" 90DSH-1-020",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 225,
+    "name": "Flow Arrow",
+    "bbox": [
+      2448,
+      3473,
+      2472,
+      3508
+    ],
+    "center": [
+      2460,
+      3491
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 226,
+    "name": "Flow Arrow",
+    "bbox": [
+      1951,
+      3609,
+      1977,
+      3644
+    ],
+    "center": [
+      1964,
+      3626
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 227,
+    "name": "Safeguarding System",
+    "bbox": [
+      2353,
+      1856,
+      2445,
+      1867
+    ],
+    "center": [
+      2399,
+      1861
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 228,
+    "name": "Spec Break",
+    "bbox": [
+      2203,
+      2425,
+      2242,
+      2443
+    ],
+    "center": [
+      2223,
+      2434
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 229,
+    "name": "Spec Break",
+    "bbox": [
+      2372,
+      2791,
+      2412,
+      2809
+    ],
+    "center": [
+      2392,
+      2800
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 230,
+    "name": "Spec Break",
+    "bbox": [
+      2298,
+      2425,
+      2336,
+      2443
+    ],
+    "center": [
+      2317,
+      2434
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 231,
+    "name": "Spec Break",
+    "bbox": [
+      3535,
+      2144,
+      3576,
+      2162
+    ],
+    "center": [
+      3555,
+      2153
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 232,
+    "name": "Spec Break",
+    "bbox": [
+      1906,
+      2826,
+      1925,
+      2868
+    ],
+    "center": [
+      1916,
+      2847
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 233,
+    "name": "Spec Break",
+    "bbox": [
+      2920,
+      2273,
+      2968,
+      2294
+    ],
+    "center": [
+      2944,
+      2284
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 234,
+    "name": "Check Valve",
+    "bbox": [
+      3830,
+      2848,
+      3868,
+      2915
+    ],
+    "center": [
+      3849,
+      2881
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 235,
+    "name": "Relief or Safety Valve",
+    "bbox": [
+      3938,
+      2592,
+      4098,
+      2752
+    ],
+    "center": [
+      4018,
+      2672
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 236,
+    "name": "Flexible Connection",
+    "bbox": [
+      4420,
+      2076,
+      4534,
+      2241
+    ],
+    "center": [
+      4477,
+      2159
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 237,
+    "name": "Auto Reset",
+    "bbox": [
+      4006,
+      3306,
+      4072,
+      3374
+    ],
+    "center": [
+      4039,
+      3340
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 238,
+    "name": "Local Instrument",
+    "bbox": [
+      3906,
+      3397,
+      3996,
+      3486
+    ],
+    "center": [
+      3951,
+      3442
+    ],
+    "text_associated": "XCV-1450-E-3",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 239,
+    "name": "Local Instrument",
+    "bbox": [
+      3939,
+      2161,
+      4029,
+      2251
+    ],
+    "center": [
+      3984,
+      2206
+    ],
+    "text_associated": "PIT-1450-E-5",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 240,
+    "name": "Safeguarding System",
+    "bbox": [
+      4239,
+      1856,
+      4329,
+      1907
+    ],
+    "center": [
+      4284,
+      1881
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 241,
+    "name": "Safeguarding System",
+    "bbox": [
+      4239,
+      2161,
+      4329,
+      2251
+    ],
+    "center": [
+      4284,
+      2206
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 242,
+    "name": "Local Instrument",
+    "bbox": [
+      3939,
+      1856,
+      4029,
+      1907
+    ],
+    "center": [
+      3984,
+      1881
+    ],
+    "text_associated": "1450-E-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 243,
+    "name": "DCS",
+    "bbox": [
+      4088,
+      2159,
+      4181,
+      2254
+    ],
+    "center": [
+      4135,
+      2206
+    ],
+    "text_associated": "PAHH-1450-E-5",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 244,
+    "name": "Shut Down Ball Valve",
+    "bbox": [
+      3829,
+      3306,
+      3910,
+      3373
+    ],
+    "center": [
+      3869,
+      3340
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 245,
+    "name": "DCS",
+    "bbox": [
+      4088,
+      1856,
+      4181,
+      1909
+    ],
+    "center": [
+      4135,
+      1882
+    ],
+    "text_associated": "1450-E-4",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 246,
+    "name": "Mechanical Interlock",
+    "bbox": [
+      4328,
+      2576,
+      4431,
+      2671
+    ],
+    "center": [
+      4379,
+      2624
+    ],
+    "text_associated": "MIL-1450-E-2",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 247,
+    "name": "Continued on DWG",
+    "bbox": [
+      4578,
+      3472,
+      4846,
+      3543
+    ],
+    "center": [
+      4712,
+      3507
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 248,
+    "name": "DCS",
+    "bbox": [
+      4109,
+      3294,
+      4201,
+      3386
+    ],
+    "center": [
+      4155,
+      3340
+    ],
+    "text_associated": "HS-1450-E-3",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 249,
+    "name": "DCS",
+    "bbox": [
+      3735,
+      2223,
+      3827,
+      2316
+    ],
+    "center": [
+      3781,
+      2269
+    ],
+    "text_associated": "PI-1450-E-8",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 250,
+    "name": "Continued on DWG",
+    "bbox": [
+      4577,
+      2186,
+      4846,
+      2256
+    ],
+    "center": [
+      4712,
+      2221
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 251,
+    "name": "DCS",
+    "bbox": [
+      3735,
+      1856,
+      3827,
+      1936
+    ],
+    "center": [
+      3781,
+      1896
+    ],
+    "text_associated": "PI-1450-E-6",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 252,
+    "name": "Continued on DWG",
+    "bbox": [
+      4573,
+      3608,
+      4843,
+      3679
+    ],
+    "center": [
+      4708,
+      3643
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 253,
+    "name": "Ball Valve",
+    "bbox": [
+      4251,
+      2686,
+      4317,
+      2737
+    ],
+    "center": [
+      4284,
+      2712
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 254,
+    "name": "Globe Valve",
+    "bbox": [
+      4258,
+      2907,
+      4310,
+      2938
+    ],
+    "center": [
+      4284,
+      2923
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 255,
+    "name": "Line Number",
+    "bbox": [
+      3852,
+      2951,
+      4065,
+      2989
+    ],
+    "center": [
+      3958,
+      2970
+    ],
+    "text_associated": "4\" 90DS-1-251",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 256,
+    "name": "Line Number",
+    "bbox": [
+      4349,
+      3603,
+      4565,
+      3642
+    ],
+    "center": [
+      4457,
+      3623
+    ],
+    "text_associated": "8\" 90DS-1-010",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 257,
+    "name": "Ball Valve",
+    "bbox": [
+      4102,
+      2897,
+      4153,
+      2937
+    ],
+    "center": [
+      4127,
+      2917
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 258,
+    "name": "Ball Valve",
+    "bbox": [
+      3761,
+      2692,
+      3814,
+      2734
+    ],
+    "center": [
+      3788,
+      2713
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 259,
+    "name": "Line Number",
+    "bbox": [
+      4354,
+      3467,
+      4570,
+      3507
+    ],
+    "center": [
+      4462,
+      3487
+    ],
+    "text_associated": "10\" 15C-1-071",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 260,
+    "name": "Line Number",
+    "bbox": [
+      4153,
+      2059,
+      4395,
+      2099
+    ],
+    "center": [
+      4274,
+      2079
+    ],
+    "text_associated": "1/2\" TUB-500-4-118",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 261,
+    "name": "Line Number",
+    "bbox": [
+      3806,
+      3069,
+      3848,
+      3285
+    ],
+    "center": [
+      3827,
+      3177
+    ],
+    "text_associated": "4\" 900DS-1-250",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 262,
+    "name": "Line Number",
+    "bbox": [
+      4303,
+      3147,
+      4344,
+      3366
+    ],
+    "center": [
+      4323,
+      3256
+    ],
+    "text_associated": "4\" 15C-1-252",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 263,
+    "name": "Remote Seal",
+    "bbox": [
+      3885,
+      1856,
+      3909,
+      1882
+    ],
+    "center": [
+      3897,
+      1869
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 264,
+    "name": "Concentric Reducer",
+    "bbox": [
+      4123,
+      2700,
+      4162,
+      2737
+    ],
+    "center": [
+      4142,
+      2718
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 265,
+    "name": "Ball Valve",
+    "bbox": [
+      4177,
+      2768,
+      4217,
+      2819
+    ],
+    "center": [
+      4197,
+      2794
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 266,
+    "name": "Remote Seal",
+    "bbox": [
+      3885,
+      2188,
+      3909,
+      2227
+    ],
+    "center": [
+      3897,
+      2207
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 267,
+    "name": "Concentric Reducer",
+    "bbox": [
+      4049,
+      2794,
+      4085,
+      2835
+    ],
+    "center": [
+      4067,
+      2815
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 268,
+    "name": "Slope Direction",
+    "bbox": [
+      3886,
+      2993,
+      4023,
+      3045
+    ],
+    "center": [
+      3955,
+      3019
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 269,
+    "name": "Flow Arrow",
+    "bbox": [
+      4333,
+      3474,
+      4355,
+      3508
+    ],
+    "center": [
+      4344,
+      3491
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 270,
+    "name": "Flow Arrow",
+    "bbox": [
+      3837,
+      3610,
+      3861,
+      3643
+    ],
+    "center": [
+      3849,
+      3627
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 271,
+    "name": "Spec Break",
+    "bbox": [
+      4102,
+      2656,
+      4140,
+      2674
+    ],
+    "center": [
+      4121,
+      2665
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 272,
+    "name": "Spec Break",
+    "bbox": [
+      4257,
+      3009,
+      4297,
+      3027
+    ],
+    "center": [
+      4277,
+      3018
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 273,
+    "name": "Spec Break",
+    "bbox": [
+      3759,
+      2930,
+      3776,
+      2971
+    ],
+    "center": [
+      3768,
+      2950
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 274,
+    "name": "Cap",
+    "bbox": [
+      1677,
+      3759,
+      1704,
+      3799
+    ],
+    "center": [
+      1690,
+      3779
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 275,
+    "name": "Flow Arrow",
+    "bbox": [
+      1733,
+      3745,
+      1759,
+      3781
+    ],
+    "center": [
+      1746,
+      3763
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 276,
+    "name": "Flow Arrow",
+    "bbox": [
+      3619,
+      3746,
+      3644,
+      3780
+    ],
+    "center": [
+      3632,
+      3763
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 277,
+    "name": "Continued on DWG",
+    "bbox": [
+      4574,
+      3745,
+      4843,
+      3815
+    ],
+    "center": [
+      4708,
+      3780
+    ],
+    "text_associated": "",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  },
+  {
+    "id": 278,
+    "name": "Line Number",
+    "bbox": [
+      4347,
+      3738,
+      4565,
+      3779
+    ],
+    "center": [
+      4456,
+      3759
+    ],
+    "text_associated": "4\" 90DS-1-011",
+    "document_id": "E17-A_A4010-0001_08_AB_2020-09-11_02_page1.png"
+  }
+]

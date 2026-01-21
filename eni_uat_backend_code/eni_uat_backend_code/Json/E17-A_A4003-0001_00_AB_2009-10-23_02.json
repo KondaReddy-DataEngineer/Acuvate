@@ -1,0 +1,444 @@
+{
+    "Asset": {
+        "Instrument": {
+            "Indicator": [
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-0",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "V-1111",
+                    "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                    "connections": [
+                        {
+                            "id": "C-A-14",
+                            "label": "component",
+                            "text_associated": "23",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-19",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-15",
+                            "label": "component",
+                            "text_associated": "V-1110",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-20",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR100",
+                    "pid_id": "L001P",
+                    "device_id": "DV001",
+                    "timeseries_id": "TS001"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-1",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "V-1110",
+                    "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                    "connections": [
+                        {
+                            "id": "C-A-16",
+                            "label": "component",
+                            "text_associated": "V-1111",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-21",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-17",
+                            "label": "component",
+                            "text_associated": "Vent",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-22",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-18",
+                            "label": "component",
+                            "text_associated": "P-1298",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-23",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR101",
+                    "pid_id": "L002P",
+                    "device_id": "DV002",
+                    "timeseries_id": "TS002"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-2",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "P-1298",
+                    "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                    "connections": [
+                        {
+                            "id": "C-A-19",
+                            "label": "component",
+                            "text_associated": "V-1110",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-24",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-20",
+                            "label": "component",
+                            "text_associated": "F-1198A/B",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-25",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR102",
+                    "pid_id": "L003P",
+                    "device_id": "DV003",
+                    "timeseries_id": "TS003"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-3",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "F-1198A/B",
+                    "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                    "connections": [
+                        {
+                            "id": "C-A-21",
+                            "label": "component",
+                            "text_associated": "P-1298",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-26",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-22",
+                            "label": "component",
+                            "text_associated": "24",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-27",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR103",
+                    "pid_id": "L004P",
+                    "device_id": "DV004",
+                    "timeseries_id": "TS004"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-4",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "24",
+                    "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                    "connections": [
+                        {
+                            "id": "C-A-23",
+                            "label": "component",
+                            "text_associated": "F-1198A/B",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-28",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR104",
+                    "pid_id": "L005P",
+                    "device_id": "DV005",
+                    "timeseries_id": "TS005"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-5",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "T-1308",
+                    "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                    "connections": [
+                        {
+                            "id": "C-A-24",
+                            "label": "component",
+                            "text_associated": "Open Drain Collection",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-29",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-25",
+                            "label": "component",
+                            "text_associated": "P-1216A/B",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-30",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR105",
+                    "pid_id": "L006P",
+                    "device_id": "DV006",
+                    "timeseries_id": "TS006"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-6",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "P-1216A/B",
+                    "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                    "connections": [
+                        {
+                            "id": "C-A-26",
+                            "label": "component",
+                            "text_associated": "T-1308",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-31",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-27",
+                            "label": "component",
+                            "text_associated": "26",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-32",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR106",
+                    "pid_id": "L007P",
+                    "device_id": "DV007",
+                    "timeseries_id": "TS007"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-7",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "26",
+                    "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                    "connections": [
+                        {
+                            "id": "C-A-28",
+                            "label": "component",
+                            "text_associated": "P-1216A/B",
+                            "Document_ID": "E17-A_A4003-0001_00_AB_2009-10-23_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-33",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR107",
+                    "pid_id": "L008P",
+                    "device_id": "DV008",
+                    "timeseries_id": "TS008"
+                }
+            ]
+        }
+    }
+}

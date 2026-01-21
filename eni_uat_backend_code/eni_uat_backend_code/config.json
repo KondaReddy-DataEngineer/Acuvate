@@ -1,0 +1,12 @@
+{
+  "snowflake": {
+    "account": "ENIENERGY-DEV",
+    "user": "TAGREGISTRY_DEV_USER",
+    "warehouse": "WH_TAGREGISTRY",
+    "database": "ENI_NL_DEV_TAGREGISTRY",
+    "schema": "DEV",
+    "role": "SDR_TAGREGISTRY_DEV_OWNER",
+    "private_key_path": "rsa_key.p8"
+  
+  }
+}

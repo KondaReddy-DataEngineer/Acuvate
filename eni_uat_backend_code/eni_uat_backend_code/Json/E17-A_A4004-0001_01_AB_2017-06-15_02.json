@@ -1,0 +1,1011 @@
+{
+    "Asset": {
+        "Instrument": {
+            "Indicator": [
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-0",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "71",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-14",
+                            "label": "component",
+                            "text_associated": "E-902",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-19",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-15",
+                            "label": "component",
+                            "text_associated": "79",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-20",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR100",
+                    "pid_id": "L001P",
+                    "device_id": "DV001",
+                    "timeseries_id": "TS001"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-1",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "E-902",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-16",
+                            "label": "component",
+                            "text_associated": "71",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-21",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-17",
+                            "label": "component",
+                            "text_associated": "72",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-22",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR101",
+                    "pid_id": "L002P",
+                    "device_id": "DV002",
+                    "timeseries_id": "TS002"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-2",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "72",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-18",
+                            "label": "component",
+                            "text_associated": "E-902",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-23",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-19",
+                            "label": "component",
+                            "text_associated": "73",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-24",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR102",
+                    "pid_id": "L003P",
+                    "device_id": "DV003",
+                    "timeseries_id": "TS003"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-3",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "73",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-20",
+                            "label": "component",
+                            "text_associated": "V-1103",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-25",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-21",
+                            "label": "component",
+                            "text_associated": "E-903",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-26",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR103",
+                    "pid_id": "L004P",
+                    "device_id": "DV004",
+                    "timeseries_id": "TS004"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-4",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "V-1103",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-22",
+                            "label": "component",
+                            "text_associated": "73",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-27",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-23",
+                            "label": "component",
+                            "text_associated": "74",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-28",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR104",
+                    "pid_id": "L005P",
+                    "device_id": "DV005",
+                    "timeseries_id": "TS005"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-5",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "E-903",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-24",
+                            "label": "component",
+                            "text_associated": "73",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-29",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-25",
+                            "label": "component",
+                            "text_associated": "75",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-30",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR105",
+                    "pid_id": "L006P",
+                    "device_id": "DV006",
+                    "timeseries_id": "TS006"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-6",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "75",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-26",
+                            "label": "component",
+                            "text_associated": "E-903",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-31",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-27",
+                            "label": "component",
+                            "text_associated": "76",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-32",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR106",
+                    "pid_id": "L007P",
+                    "device_id": "DV007",
+                    "timeseries_id": "TS007"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-7",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "76",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-28",
+                            "label": "component",
+                            "text_associated": "75",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-33",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-29",
+                            "label": "component",
+                            "text_associated": "77",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-34",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR107",
+                    "pid_id": "L008P",
+                    "device_id": "DV008",
+                    "timeseries_id": "TS008"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-8",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "77",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-30",
+                            "label": "component",
+                            "text_associated": "76",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-35",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR108",
+                    "pid_id": "L009P",
+                    "device_id": "DV009",
+                    "timeseries_id": "TS009"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-9",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "79",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-31",
+                            "label": "component",
+                            "text_associated": "71",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-36",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-32",
+                            "label": "component",
+                            "text_associated": "V-1175",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-37",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR109",
+                    "pid_id": "L010P",
+                    "device_id": "DV010",
+                    "timeseries_id": "TS010"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-10",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "V-1175",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-33",
+                            "label": "component",
+                            "text_associated": "79",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-38",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-34",
+                            "label": "component",
+                            "text_associated": "80",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-39",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR110",
+                    "pid_id": "L011P",
+                    "device_id": "DV011",
+                    "timeseries_id": "TS011"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-11",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "80",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-35",
+                            "label": "component",
+                            "text_associated": "V-1175",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-40",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-36",
+                            "label": "component",
+                            "text_associated": "E-976",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-41",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR111",
+                    "pid_id": "L012P",
+                    "device_id": "DV012",
+                    "timeseries_id": "TS012"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-12",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "E-976",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-37",
+                            "label": "component",
+                            "text_associated": "80",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-42",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-38",
+                            "label": "component",
+                            "text_associated": "81",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-43",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR112",
+                    "pid_id": "L013P",
+                    "device_id": "DV013",
+                    "timeseries_id": "TS013"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-13",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "81",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-39",
+                            "label": "component",
+                            "text_associated": "E-976",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-44",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-40",
+                            "label": "component",
+                            "text_associated": "F-1176",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-45",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR113",
+                    "pid_id": "L014P",
+                    "device_id": "DV014",
+                    "timeseries_id": "TS014"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-14",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "F-1176",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-41",
+                            "label": "component",
+                            "text_associated": "81",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-46",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-42",
+                            "label": "component",
+                            "text_associated": "82",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-47",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR114",
+                    "pid_id": "L015P",
+                    "device_id": "DV015",
+                    "timeseries_id": "TS015"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-15",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "82",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-43",
+                            "label": "component",
+                            "text_associated": "F-1176",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-48",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR115",
+                    "pid_id": "L016P",
+                    "device_id": "DV016",
+                    "timeseries_id": "TS016"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-16",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "74",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-44",
+                            "label": "component",
+                            "text_associated": "V-1103",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-49",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        },
+                        {
+                            "id": "C-A-45",
+                            "label": "component",
+                            "text_associated": "83",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-50",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR116",
+                    "pid_id": "L017P",
+                    "device_id": "DV017",
+                    "timeseries_id": "TS017"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-17",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "83",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-46",
+                            "label": "component",
+                            "text_associated": "74",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-51",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR117",
+                    "pid_id": "L018P",
+                    "device_id": "DV018",
+                    "timeseries_id": "TS018"
+                },
+                {
+                    "topX": 0.1,
+                    "topY": 0.1,
+                    "bottomX": 0.2,
+                    "bottomY": 0.2,
+                    "id": "A-18",
+                    "label": "component",
+                    "score": 0.1,
+                    "text_associated": "E-975",
+                    "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                    "connections": [
+                        {
+                            "id": "C-A-47",
+                            "label": "component",
+                            "text_associated": "79",
+                            "Document_ID": "E17-A_A4004-0001_01_AB_2017-06-15_02",
+                            "flow_direction": "unknown",
+                            "asset_key": null,
+                            "pid_id": null,
+                            "device_id": null,
+                            "timeseries_id": null,
+                            "segments": [
+                                {
+                                    "id": "L-52",
+                                    "startX": 0.1,
+                                    "startY": 0.8,
+                                    "endX": 0.1,
+                                    "endY": 0.6
+                                }
+                            ]
+                        }
+                    ],
+                    "asset_id": "PR118",
+                    "pid_id": "L019P",
+                    "device_id": "DV019",
+                    "timeseries_id": "TS019"
+                }
+            ]
+        }
+    }
+}
